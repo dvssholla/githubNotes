@@ -1,4 +1,4 @@
-__GitHub Workflow__
+GitHub Workflow
 
 Create a repository:
 1. Start by creating a new repository on GitHub. Specify a name, description, and choose public or private visibility.
